@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮Void Bot 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -33,19 +33,19 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['254793715445','254777246905','254707715807','254701894950'] //owner number +27634090203
+global.wame = ['254793715445'] 
+global.pemilik = ['254793715445'] //owner number +27634090203
+global.premium = ['254793715445','254777246905','254707715807','254701894950'] //premium number +27634090203
+global.pengguna = 'Void.' //username
+global.footer = 'Void Bot'
+global.botnma = 'Void Bot' //bot name
+global.botname = 'The Void'
+global.ownernma = 'Void' //owner name
+global.packname = 'VoidBot' //sticker package name
+global.author = 'TechGiants$ IT HACKS' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['','*','_','!','.','#','~','-'] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
 global.dripsreadgroup = false
@@ -72,16 +72,15 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
-    group: '*Feature is only for groups!*',
-    grouponly: '*Group Mode Only*',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
-    endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
+    success: '🅳🅾🅽🅴 ✓',
+    admin: '♥ This Feature Is Only For Admin ♥!',
+    botAdmin: 'ʙᴏᴛ ᴍᴜꜱᴛ ʙᴇ ᴀᴅᴍɪɴ ꜰɪʀꜱᴛ!',
+    owner: 'This Feature Is Only For Owner!',
+    group: '𝓕𝓮𝓪𝓽𝓾𝓻𝓮 𝓤𝓼𝓮𝓭 𝓞𝓷𝓵𝔂 𝓕𝓸𝓻 𝓖𝓻𝓸𝓾𝓹𝓼!',
+    private: '𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕤 𝕌𝕤𝕖𝕕 𝕆𝕟𝕝𝕪 𝔽𝕠𝕣 ℙ𝕣𝕚𝕧𝕒𝕥𝕖 ℂ𝕙𝕒𝕥!',
+    bot: '𝙏𝙝𝙞𝙨 𝙁𝙚𝙖𝙩𝙪𝙧𝙚 𝙄𝙨 𝙊𝙣𝙡𝙮 𝙁𝙤𝙧 𝘽𝙤𝙩',
+    wait: '𝐿❀𝒶𝒹𝒾𝓃𝑔☢.',
+    endLimit: '𝒴🍬𝓊𝓇 𝒟𝒶𝒾𝓁𝓎 𝐿𝒾𝓂𝒾𝓉 𝐻𝒶𝓈 𝐸𝓍𝓅𝒾𝓇𝑒𝒹, 𝒯𝒽𝑒 𝐿𝒾𝓂𝒾𝓉 𝒲𝒾𝓁𝓁 𝐵𝑒 𝑅𝑒𝓈𝑒𝓉 𝐸𝓋𝑒𝓇𝓎 𝟣𝟤 𝐻🏵𝓊𝓇𝓈',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
 global.limitawal = {
@@ -97,8 +96,8 @@ umpanawal: 5,
 potionawal: 1
 }
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://imgur.com/a/1KII00S' }
+global.vid = { url: 'https://imgur.com/a/1KII00S' }
 
 //—————「 Set Random Image Menu 」—————//
 
