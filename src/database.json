@@ -41,6 +41,34 @@
       "chatbot": false,
       "grouponly": false,
       "autoblock": false
+    },
+    "254793715445@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": false,
+      "templateLocation": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateList": false,
+      "templateDoc": true,
+      "templateZimbot": false,
+      "chatbot": false,
+      "grouponly": false,
+      "autoblock": false
+    },
+    "254773692606@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": false,
+      "templateLocation": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateList": false,
+      "templateDoc": true,
+      "templateZimbot": false,
+      "chatbot": false,
+      "grouponly": false,
+      "autoblock": false
     }
   },
   "others": {
@@ -346,6 +374,121 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100000
+    },
+    "254701894950@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2347030218204@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2349020160186@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2349018052034@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254115515360@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254703344902@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2348159930080@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254748267422@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254700698033@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2348069360887@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "2348162458994@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254778023473@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254115364839@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "22996848439@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "6590617495@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "265997785768@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254111480710@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254718241545@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254111874743@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254790167243@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
+    },
+    "254793715445@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "254773692606@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "254777246905@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
     }
   },
   "chats": {
@@ -1024,6 +1167,204 @@
       "antiphoto": false,
       "antivn": false,
       "antivideo": false
+    },
+    "120363025448565553@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "120363043799137130@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "autoblock": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "wame": false,
+      "antitwitter": false,
+      "antivn": false,
+      "antiphoto": false,
+      "antisticker": false,
+      "antivideo": false
+    },
+    "120363043040954117@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "120363026502713488@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "120363041905947125@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "62895377900308-1632266826@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "120363039839467167@g.us": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "254793715445@s.whatsapp.net": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "254777246905@s.whatsapp.net": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
     }
   }
 }
