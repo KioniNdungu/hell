@@ -489,6 +489,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": "Infinity"
+    },
+    "923035954659@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100000
     }
   },
   "chats": {
@@ -1345,6 +1350,28 @@
       "autoblock": false
     },
     "254777246905@s.whatsapp.net": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "120363038720618354@g.us": {
       "mute": false,
       "chatbot": false,
       "wame": false,
