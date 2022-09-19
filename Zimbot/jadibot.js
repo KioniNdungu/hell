@@ -32,14 +32,14 @@ exports.jadibot = async (conn, m) => {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: false,
         auth: state,
-		browser: ['ZIM BOT JADI']
+		browser: ['void BOT ']
 })
 
 ZimBotInc.ev.on('connection.update', async (update) => {
 		const { connection, qr } = update
 		if (qr !== undefined) {
 			let res = await QR.toDataURL(qr, { scale: 8 })
-			let scan = await conn.sendFile(m.key.remoteJid, res, '', 'Scan bang...', m)
+			let scan = await conn.sendFile(m.key.remoteJid, res, '', 'Scan qrcode...', m)
 			setTimeout(() => {
 				conn.sendMessage(m.key.remoteJid, { delete: { remoteJid: m.key.remoteJid, fromMe: true, id: scan.key.id, participant: conn.user.jid }})
 			}, 30000)
