@@ -139,7 +139,7 @@ exports.zerochan = (query) => {
         result.push('https://s1.zerochan.net/' + judul[i].replace(/\ /g, '.') + '.600.' + id[i].split('/')[1] + '.jpg')
       }
 		  resolve({
-        creator: 'Fajar Ihsana',
+        creator: 'Void Bot',
         result: result
       })
 		})
@@ -173,7 +173,7 @@ exports.happymoddl = (link) => {
         })
       }
 		  resolve({
-        creator: 'Fajar Ihsana',
+        creator: 'Void Bot',
         title: title,
         info: info.replace(/\t|- /g, ''),
         download: result
@@ -194,7 +194,7 @@ exports.goredl = async(link) => {
 								link : $$('video > source').attr('src')
 							}
 							const result = {
-								creator: 'Fajar Ihsana',
+								creator: 'Void Bot',
 								data : format
 							}
                   resolve(result)
@@ -381,7 +381,7 @@ exports.anoboys = (query) => {
         				}
         				const result = {
         					status: data.status,
-        					creator: 'Fajar Ihsana',
+        					creator: 'Void Bot',
         					data: format
         				}
                   resolve(result)
@@ -603,7 +603,7 @@ exports.gempa = async() => {
                         	dirasakan: rasa
                         }
                         const result = {
-                        	creator: 'Fajar Ihsana',
+                        	creator: 'Void Bot',
                         	data: format
                         }
                   resolve(result)
@@ -635,7 +635,7 @@ exports.cariresep = async(query) => {
 							})
 						}
 						const result = {
-							creator: 'Fajar Ihsana',
+							creator: 'Void Bot',
 							data : format
 						}
                   resolve(result)
@@ -679,7 +679,7 @@ exports.bacaresep = async(query) => {
 						const tahap = ttahap
 						const bahan = tbahan
 						const result = {
-							creator : 'Fajar Ihsana',
+							creator : 'Void Bot',
 							data : {
 								judul : judul,
 								waktu_masak : waktu,
@@ -737,7 +737,7 @@ exports.searchgore = async(query) => {
 							})
 						}
 						const result = {
-							creator: 'Fajar Ihsana',
+							creator: 'Void Bot',
 							data : format
 						}
                   resolve(result)
@@ -777,7 +777,7 @@ exports.randomgore = async() => {
 								link : $$('video > source').attr('src')
 							}
 							const result = {
-								creator: 'Fajar Ihsana',
+								creator: 'Void Bot',
 								data : format
 							}
                   resolve(result)
