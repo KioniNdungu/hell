@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮Void Bot 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -40,7 +40,7 @@ global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
 const { say } =  require('cfonts')
 const { color } = require('./lib/color')
-say('ZIM-BOT\nV4', {
+say('Void\nBot', {
     font: '3d',
     colors: ["#0ff",'green',"#ff0"],
     align: 'center',
@@ -52,7 +52,7 @@ say('ZIM-BOT\nV4', {
     maxLenght: '0'
 
   })
-  say(`ZIM-BOT-INC By @${author.name || author}`, {
+  say(`Void-Ke By @${author.name || author}`, {
     font: 'console',
     align: 'center',
     gradient: ['red', 'green']
@@ -151,54 +151,54 @@ mentions: [num],
 fileName: `WELCOME TO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©Void Bot 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+title:"Void Bot",
+body:"╭────────────────/n │🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀❱/n ╰────────────────/n ╭────────────────/n │ Hello/n │ 🥰 *Welcome To our Group*/n │ ${metadata.subject}/n │*Enjoy Yourself Here*/n ╰───────────────    ",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+//mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+//sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
 }}
 }
-const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
-ZimBotInc.sendMessage(anu.id, { audio: driphunny, mimetype: 'audio/mp4', ptt: true})
+//const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
+//ZimBotInc.sendMessage(anu.id, { audio: driphunny, mimetype: 'audio/mp4', ptt: true})
 ZimBotInc.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                     var buffer = await getBuffer(ppuser)
                     var mhatadzenyu = await getBuffer(picak+'BYE CHOMIE')
                     let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    he = `He/She is gone bro ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+                    he = `He/She is left ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
                     
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
+{buttonId: `Hello`, buttonText: {displayText: 'BYE'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `HE/SHE IS GONE BRO ${metadata.subject}`,
+fileName: `HE/SHE Left ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©Void Bot 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+title:"Void Bot",
+body:"Thieves just leave, they dont say Goodbye",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: mhatadzenyu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+//mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+//sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
 }}
 }
-const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
-ZimBotInc.sendMessage(anu.id, { audio: dripbabe, mimetype: 'audio/mp4', ptt: true})
+//const dripbabe = fs.readFileSync('./Zimbot/leave.mp3')
+//ZimBotInc.sendMessage(anu.id, { audio: dripbabe, //mimetype: 'audio/mp4', ptt: true})
 ZimBotInc.sendMessage(anu.id, buttonMessage)
     
                 }
