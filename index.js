@@ -156,7 +156,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
 title:"Void Bot",
-body:"╭────────────────/n │🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀❱/n ╰────────────────/n ╭────────────────/n │ Hello/n │ 🥰 *Welcome To our Group*/n │ ${metadata.subject}/n │*Enjoy Yourself Here*/n ╰───────────────    ",
+body:"🎀𝒱💞𝒾𝒹 𝐵💍𝓉🎀",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
@@ -169,9 +169,9 @@ thumbnail:wangu,
 ZimBotInc.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                     var buffer = await getBuffer(ppuser)
-                    var mhatadzenyu = await getBuffer(picak+'BYE CHOMIE')
+                    var mhatadzenyu = await getBuffer(picak+'BYE ')
                     let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    he = `He/She is left ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+                    he = `He/She left ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
                     
 let buttons = [
 {buttonId: `Hello`, buttonText: {displayText: 'BYE'}, type: 1}
