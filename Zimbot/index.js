@@ -57,7 +57,7 @@ exports.rexdl = async (query) => {
 				})
 				for (let i = 0; i < judul.length; i++) {
 					result.push({
-						creator: 'Fajar Ihsana',
+						creator: 'Void Bot',
 						judul: judul[i],
 						kategori: jenis[i],
 						upload_date: date[i],
@@ -101,7 +101,7 @@ exports.rexdldown = async (link) => {
 							})
 						}
 						resolve({
-							creator: 'Fajar Ihsana',
+							creator: 'Void Bot',
 							judul: judul,
 							update_date: $$('#dlbox > ul.dl-list > li.dl-update > span:nth-child(2)').text(),
 							version: $$('#dlbox > ul.dl-list > li.dl-version > span:nth-child(2)').text(),
@@ -267,7 +267,7 @@ exports.stickersearch = async (query) => {
 							url.push($$(b).attr('src').split('&d=')[0])
 						})
 						resolve({
-							creator: 'Fajar Ihsana',
+							creator: 'Void Bot',
 							title: $$('#intro > div > div > h1').text(),
 							author: $$('#intro > div > div > h5 > a').text(),
 							author_link: $$('#intro > div > div > h5 > a').attr('href'),
@@ -396,7 +396,7 @@ exports.zerochan = (query) => {
 					result.push('https://s1.zerochan.net/' + judul[i].replace(/\ /g, '.') + '.600.' + id[i].split('/')[1] + '.jpg')
 				}
 				resolve({
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					result: result
 				})
 			})
@@ -432,7 +432,7 @@ exports.happymoddl = (link) => {
 				}
 				console.log(link)
 				resolve({
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					title: title,
 					info: info.replace(/\t|- /g, ''),
 					download: link
@@ -455,7 +455,7 @@ exports.goredl = async (link) => {
 					link: $$('video > source').attr('src')
 				}
 				const result = {
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					data: format
 				}
 				resolve(result)
@@ -629,7 +629,7 @@ exports.anoboys = (query) => {
 				}
 				const result = {
 					status: data.status,
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					data: format
 				}
 				resolve(result)
@@ -867,7 +867,7 @@ exports.gempa = async () => {
 					dirasakan: rasa
 				}
 				const result = {
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					data: format
 				}
 				resolve(result)
@@ -901,7 +901,7 @@ exports.cariresep = async (query) => {
 					})
 				}
 				const result = {
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					data: format
 				}
 				resolve(result)
@@ -947,7 +947,7 @@ exports.bacaresep = async (query) => {
 				const tahap = ttahap
 				const bahan = tbahan
 				const result = {
-					creator: 'Fajar Ihsana',
+					creator: 'Void Bot',
 					data: {
 						judul: judul,
 						waktu_masak: waktu,
@@ -1007,7 +1007,7 @@ exports.searchgore = async (query) => {
 						})
 					}
 					const result = {
-						creator: 'Fajar Ihsana',
+						creator: 'Void Bot',
 						data: format
 					}
 					resolve(result)
@@ -1048,7 +1048,7 @@ exports.randomgore = async () => {
 							link: $$('video > source').attr('src')
 						}
 						const result = {
-							creator: 'Fajar Ihsana',
+							creator: 'Void Bot',
 							data: format
 						}
 						resolve(result)
