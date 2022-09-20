@@ -5511,7 +5511,7 @@ await fs.unlinkSync(FaTiH)
 break
 case 'brainly': {
 reply(mess.wait)
-if (!text) throw `Example : ${prefix + command} apa itu wibu`           
+if (!text) throw `Example : ${prefix + command} what is void`           
 x = await fetchJson(`https://api.violetics.pw/api/media/brainly?apikey=beta&query=${text}`)                       
 ini_txt = '*BRAINLY SEARCH*\n\n'
 for (let i of x.result) {       
